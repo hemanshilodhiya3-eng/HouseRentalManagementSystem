@@ -243,3 +243,5 @@ The application replaces informal brokerage channels with a verifiable digital w
 3. **Real-Time Landlord-Tenant Chat**: WebSockets / SignalR implementation for instant messaging and lease agreement negotiations.
 4. **Digital Lease Agreement Signing**: Integrated e-signature capability for legal tenancy agreements.
 
+#   H o u s e R e n t a l M a n a g e m e n t S y s t e m  
+ 
